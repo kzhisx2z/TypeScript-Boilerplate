@@ -4,6 +4,7 @@
 
 - First install the latest release
 
+Then install all the dependencies:
 ```
 yarn run install
 ```
